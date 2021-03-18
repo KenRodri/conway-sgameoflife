@@ -1,0 +1,1 @@
+This is a terminal based convey's game of life simulation made with python.
